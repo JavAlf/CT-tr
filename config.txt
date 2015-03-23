@@ -1,0 +1,4 @@
+directory = /home/francisco/trackers/animal
+
+%bb = x y width height the following is for david sequence
+bb = 350 57 60 35
